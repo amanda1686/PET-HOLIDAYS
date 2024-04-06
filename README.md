@@ -4,7 +4,8 @@
 
 Somos una compañía líder de alojamiento para mascotas, dedicada a ofrecer experiencias excepcionales para usted y su mascota. Al igual que Airbnb, facilitamos que los propietarios de viviendas compartan sus espacios de manera segura y cómoda con viajeros que buscan más que un hotel. Pero a diferencia de Airbnb, nos centramos en ser completamente amigables con las mascotas.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e7f6b6-bd77-4016-920a-ef3943dfbb32/356ccbc6-4c02-4d52-be42-0b7ce31be320/Untitled.png)
+![image](https://github.com/amanda1686/PET-HOLIDAYS/assets/80174591/2be0ff27-15dd-4424-ab64-f4499ede2af6)
+
 
 ## ¿Qué ofrecemos?
 
